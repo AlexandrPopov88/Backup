@@ -46,7 +46,7 @@
 #!/bin/bash
 
 # Устанавливаем переменные
-source_dir="/home/username"
+source_dir="/home/alex"
 backup_dir="/tmp/backup"
 log_file="/var/log/backup.log"
 
